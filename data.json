@@ -1,0 +1,22 @@
+[
+  {
+    "task": "Hit the gym",
+    "status": "open",
+    "priority": "low"
+  },
+  {
+    "task":  "Pay bills",
+    "status": "in progress",
+    "priority": "minor"
+  },
+  {
+    "task": "Organize office",
+    "status": "almost done",
+    "priority": "major"
+  },
+  {
+    "task":  "Read a book",
+    "status": "done",
+    "priority": "high"
+  }
+]
